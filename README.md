@@ -12,7 +12,7 @@ Utilizei o teste t para avaliar a significância estatística das diferenças na
 
 ## Conteúdo do Projeto
 
-- `Turnover-Analysis.ipynb`: Notebook principal com análise de dados.
+- `Turnover-Analysis.ipynb`: Notebook principal com análise de dados.[Visualizar Notebook Renderizado no nbviewer](https://nbviewer.org/github/pedro-kaneko/Turnover-Analysis/blob/main/Turnover_Analysis.ipynb)
 - `Base_dados_-_Rotatividade_RH.xlsx`: Conjunto de dados utilizado na análise.
 - `Turnover-Analysis-Executive-Presentation.pdf`: Apresentação executiva do projeto.
 
